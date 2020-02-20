@@ -1,0 +1,33 @@
+{
+  "name": "node-mobile-operator",
+  "version": "1.0.0",
+  "description": "detect mobile operator by phone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchezzzhak/node-mobile-operator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchezzzhak/node-mobile-operator/issues"
+  },
+  "engines": {
+    "node": ">= 10.x",
+    "npm": ">= 6.x"
+  },
+  "homepage": "https://github.com/sanchezzzhak/node-mobile-operator#readme",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "chai": "^4.0.2",
+    "cli-table": "^0.3.1",
+    "faker": "^4.1.0",
+    "mocha": "^3.4.2",
+    "nock": "^9.6.1",
+    "nyc": "^11.9.0",
+    "sinon": "^4.5.0"
+  }
+}
